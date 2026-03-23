@@ -39,9 +39,6 @@ npm run dev
 npm run seed
 ```
 
-### Default Admin Account (after seeding)
-- **Email:** admin@fingercofc.org
-- **Password:** Admin@1234
 
 ## Project Structure
 
